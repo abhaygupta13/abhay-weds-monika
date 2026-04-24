@@ -1,0 +1,24 @@
+{
+  "overview": "A premium, romantic wedding invitation website for Abhay and Monika featuring animated sections, live countdown timer, event timeline, gallery, and auto-playing music.",
+  "features": [
+    "Animated hero section with couple names and hashtag",
+    "Auto-playing 'Aaj Sajeya' with visible music toggle",
+    "Live countdown timer to the wedding day",
+    "Events timeline for Haldi, Lagan, Sangeet, Bhaat, and Wedding",
+    "Couple profile cards with family details",
+    "Photo gallery with hover effects",
+    "Venue cards with Google Maps links",
+    "RSVP contact section with clickable phone numbers",
+    "Confetti animation on load",
+    "Fully responsive mobile-first design"
+  ],
+  "category": "showcase",
+  "tags": [
+    "wedding",
+    "invitation",
+    "romantic",
+    "animated",
+    "responsive"
+  ],
+  "last_updated": "2026-04-24T17:06:19.947Z"
+}
